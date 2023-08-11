@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "ENE",
+    " S "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_sword"
+    },
+    "S": {
+      "item": "stepmod:emerald_sword_core"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "stepmod:emerald_sword",
+    "count": 1
+  }
+}
